@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.bing.lib.select.config;
+package com.bingo.lib.select.config;
 
 import android.view.View;
 import android.widget.ImageView;

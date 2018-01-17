@@ -1,4 +1,4 @@
-package com.bing.lib.select;
+package com.bingo.lib.select;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -23,6 +23,6 @@ public class ExampleInstrumentedTest
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.bing.lib.select.test", appContext.getPackageName());
+        assertEquals("com.bingo.lib.select.test", appContext.getPackageName());
     }
 }

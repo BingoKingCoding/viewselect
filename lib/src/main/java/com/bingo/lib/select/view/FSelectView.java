@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.bing.lib.select.view;
+package com.bingo.lib.select.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -24,11 +24,11 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.bing.lib.select.config.FImageViewSelectConfig;
-import com.bing.lib.select.config.FTextViewSelectConfig;
-import com.bing.lib.select.config.FViewSelectConfig;
-import com.bing.lib.select.container.FISelectViewContainer;
-import com.bing.lib.select.container.FSelectViewContainer;
+import com.bingo.lib.select.config.FImageViewSelectConfig;
+import com.bingo.lib.select.config.FTextViewSelectConfig;
+import com.bingo.lib.select.config.FViewSelectConfig;
+import com.bingo.lib.select.container.FISelectViewContainer;
+import com.bingo.lib.select.container.FSelectViewContainer;
 
 
 public class FSelectView extends FrameLayout implements FISelectViewContainer

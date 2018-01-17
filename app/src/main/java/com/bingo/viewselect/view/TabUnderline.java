@@ -5,9 +5,9 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.TextView;
 
-import com.bing.lib.select.config.FTextViewSelectConfig;
-import com.bing.lib.select.config.FViewSelectConfig;
-import com.bing.lib.select.view.FSelectView;
+import com.bingo.lib.select.config.FTextViewSelectConfig;
+import com.bingo.lib.select.config.FViewSelectConfig;
+import com.bingo.lib.select.view.FSelectView;
 import com.bingo.viewselect.R;
 
 /**

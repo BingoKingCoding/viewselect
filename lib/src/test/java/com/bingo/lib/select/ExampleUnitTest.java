@@ -1,4 +1,4 @@
-package com.bing.lib.select;
+package com.bingo.lib.select;
 
 import org.junit.Test;
 

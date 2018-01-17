@@ -13,15 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.bing.lib.select.container;
+package com.bingo.lib.select.container;
 
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.bing.lib.select.config.FImageViewSelectConfig;
-import com.bing.lib.select.config.FTextViewSelectConfig;
-import com.bing.lib.select.config.FViewSelectConfig;
+import com.bingo.lib.select.config.FImageViewSelectConfig;
+import com.bingo.lib.select.config.FTextViewSelectConfig;
+import com.bingo.lib.select.config.FViewSelectConfig;
 
 
 public interface FISelectViewContainer
